@@ -129,5 +129,4 @@ to communicate with this service.
 
 ## Author
 
-Tawfiq Sattar
-ERA InfoTech Ltd.
+Kamrul Fardaus
